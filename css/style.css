@@ -1086,7 +1086,7 @@ header .header-element {
 .profile-social {
     position: relative;
     width: 100%;
-    text-align: left;
+    text-align: center;
     line-height: 1.7rem;
     padding: 0.5rem 0;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1)
