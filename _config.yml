@@ -102,7 +102,9 @@ theme: archer
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/DMR-Team/DMR-Team.github.io
+  branch: gh-pages
 
 # Archer Theme config
 jsonContent:
