@@ -158,7 +158,7 @@ comment:
 
 # ========== Analytics ========== #
 # enable Busuanzi analytics
-busuanzi: true
+busuanzi: false
 # fill in pv or uv
 busuanzi_pv_or_uv: 'pv'
 # custom analytic slogan, '${count}' is the analytic number, DO NOT modify it.
