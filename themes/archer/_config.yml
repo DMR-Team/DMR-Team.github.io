@@ -77,7 +77,7 @@ site_header_image: '/intro/index-bg.jpg'
 # post haeder image
 post_header_image: '/intro/post-bg.jpg'
 # 404 image
-_404_image: '/intro/404-bg.jpg'
+_404_image: '/intro/404squad.jpg'
 
 # ========== Theme ========== #
 # Truncate length of abstracts in index page (the default is 300, there will be no abstruct if you input 0)
