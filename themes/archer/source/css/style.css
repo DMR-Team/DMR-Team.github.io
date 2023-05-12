@@ -3196,7 +3196,7 @@ html::-webkit-scrollbar-track:hover,
     z-index: 30;
     background-color: transparent;
     position: absolute;
-    bottom: 0
+    bottom: 200px
 }
 
 .four-zero-four-body .iconfont-archer::before {
