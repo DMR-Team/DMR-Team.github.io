@@ -109,13 +109,13 @@ show_categories: false
 
 # ========== Search ========== #
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 10
   labels:
-    input_placeholder: Search for Posts
-    hits_empty: "We did not find any results for the search: ${query}"
-    hits_stats: "${hits} results found in ${time} ms"
+    input_placeholder: 搜索博文
+    hits_empty: "我们没有找到任何关于 ${query} 的博文。"
+    hits_stats: "共 ${hits} 个结果，用时： ${time} ms"
 
 # ========== Comment ========== #
 # Fill in the field to enable the corresponding comment plugin
@@ -175,7 +175,7 @@ CNZZ_analytics:
 favicon: /assets/favicon.ico
 # Post copyright
 copyright:
-  enable: true
+  enable: false
   # https://creativecommons.org/
   license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
 # Website Approve

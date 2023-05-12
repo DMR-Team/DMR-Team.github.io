@@ -6,8 +6,8 @@
 title: -DMR- Team
 subtitle: '[DMR] Team官方博客'
 description: 'Game Life,Life Game.'
-keywords:
-author: RoyZ
+keywords: Game,CSGO,CS2,eSports
+author: -DMR-
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -123,5 +123,5 @@ jsonContent:
     link: false
     permalink: true
     excerpt: false
-    categories: true
+    categories: false
     tags: true
