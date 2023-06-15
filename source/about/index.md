@@ -4,4 +4,6 @@ layout: about
 date: 2023-05-12 20:39:22
 ---
 
-Learning Markdown :)
+# 关于我们
+
+DMR.Respawn是一个兴趣使然的游戏社团，与任何营利性组织或个人没有直接关联，以CS:GO（CS2）为基础,面向所有玩家群群体的开放社团。
