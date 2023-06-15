@@ -1,11 +1,11 @@
 ![](https://github.com/DMR-Team/DMR-Team.github.io/blob/main/themes/archer/source/avatar/DMRT.jpg?raw=true#pic_center)
 
-[DMR] Team 官方网站源码- [官方主页](https://DMR.gg)
+DMR.Resapwn  官方网站源码- [官方主页](https://DMR.gg)
 =========================
 
 介绍
 =========================
-本项目为[DMR] Team团队博客主页仓库，采用[Hexo](https://Hexo.io)博客框架，选取[Archer](https://github.com/fi3ework/hexo-theme-archer/)主题。
+本项目为DMR.Resapwn主页仓库，采用[Hexo](https://Hexo.io)博客框架，选取[Archer](https://github.com/fi3ework/hexo-theme-archer/)主题。
 
 TODO LIST
 =========================

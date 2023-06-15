@@ -2,7 +2,7 @@
 # avatar
 avatar: /avatar/DMRT.jpg
 # author name
-author: -DMR- Team
+author: DMR.Resapwn
 # signature
 signature: Game Life,Life Game.
 # SNS (you can custom the order)
@@ -35,7 +35,7 @@ friends:
   # friendB: //www.google.com
 about:
   enable: true
-  image: '/intro/about-bg.jpg'
+  image: '/intro/about-bg-cs2.jpg'
 # Search for website
 search:
   enable: false
@@ -62,7 +62,7 @@ profile_links:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: -DMR- Team
+SEO_title: DMR.Resapwn
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
@@ -70,13 +70,13 @@ SEO_keywords:
   - 'hexo-blog'
   - DMR
 # main title shown in header image
-main_title: -DMR- Team 
+main_title: DMR.Resapwn
 # subtitle
 subtitle: Game Life,Life Game.
 # site haeder image
-site_header_image: '/intro/index-bg-ak.jpg'
+site_header_image: '/intro/index-bg-nuke.jpg'
 # post haeder image
-post_header_image: '/intro/post-bg-m4.jpg'
+post_header_image: '/intro/post-bg-nuke.jpg'
 # 404 image
 _404_image: '/intro/404squad.jpg'
 

@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: -DMR- Team
-subtitle: '[DMR] Team官方博客'
+title: DMR.Resapwn
+subtitle: 'DMR.Respawn 官方网站'
 description: 'Game Life,Life Game.'
 keywords: Game,CSGO,CS2,eSports
-author: -DMR-
+author: DMR.Resapwn
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -40,7 +40,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
