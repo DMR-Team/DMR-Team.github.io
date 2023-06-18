@@ -1,8 +1,7 @@
 ---
 title: -CS2-起源2地图效果图解包
 date: 2023-06-15 22:30:13
-tags: cs2,csgo,unpack
-comments: true
+tags: [CS2,CSGO,解包,起源2,地图]
 categories: 反恐精英2
 ---
 # ar_baggage 行李仓库
