@@ -12,7 +12,7 @@ social:
   # wechat should be a path of qr-code image path
   wechat: 
   # qq should be a path of qr-code image path
-  qq: 
+  qq: /assets/qq.jpg
   telegram: 
   weibo: 
   zhihu: 
