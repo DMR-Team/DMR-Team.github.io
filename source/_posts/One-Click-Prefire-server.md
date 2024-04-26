@@ -13,16 +13,26 @@ categories: 反恐精英2
 ## 下载地址
 
 ### 最新版本：
-<a href="OCPrefire2024.4.20.7z">OCPrefire2024.4.20.7z</a>
+<a href="OCPrefire2024.4.26.7z">OCPrefire2024.4.26.7z</a>
 
 ### 历史版本：
 <a href="OCPrefire2024.4.16.7z">OCPrefire2024.4.16.7z</a>
 <a href="OCPrefire2024.4.17.7z">OCPrefire2024.4.17.7z</a>
 <a href="OCPrefire2024.4.18测试版.7z">OCPrefire2024.4.18测试版.7z</a>
+<a href="OCPrefire2024.4.20.7z">OCPrefire2024.4.20.7z</a>
 
 ## 更新日志
 
 ```
+2024.4.26
+插件更新：
+  1. 更新CSS至v215
+  2. 更新MM至Build1289
+  3. 插件默认语言改为中文
+脚本更新：
+  1. 将脚本重新命名方便运行，具体请看压缩包内文本文档
+  2. 新增创建快捷方式方法二和Powershell脚本作为备份
+
 2024.4.20
 脚本更新：
   1. 默认使用了UAC管理员身份运行
