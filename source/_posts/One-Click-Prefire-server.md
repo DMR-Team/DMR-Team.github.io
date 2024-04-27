@@ -14,7 +14,7 @@ categories: 反恐精英2
 
 ### 最新版本：
 <a href="OCPrefire2024.4.26.7z">OCPrefire2024.4.26.7z</a>
-<a href="OCPrefire2024.4.27测试版">OCPrefire2024.4.27测试版</a>
+<a href="OCPrefire2024.4.27测试版.7z">OCPrefire2024.4.27测试版.7z</a>
 
 ### 历史版本：
 <a href="OCPrefire2024.4.16.7z">OCPrefire2024.4.16.7z</a>
