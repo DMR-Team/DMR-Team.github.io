@@ -14,6 +14,7 @@ categories: 反恐精英2
 
 ### 最新版本：
 <a href="OCPrefire2024.4.26.7z">OCPrefire2024.4.26.7z</a>
+<a href="OCPrefire2024.4.27测试版">OCPrefire2024.4.27测试版</a>
 
 ### 历史版本：
 <a href="OCPrefire2024.4.16.7z">OCPrefire2024.4.16.7z</a>
@@ -24,6 +25,29 @@ categories: 反恐精英2
 ## 更新日志
 
 ```
+2024.4.27测试版
+插件更新：
+  1. 路线更新
+    de_anubis
+      添加CT推A大
+      添加CT推B外
+      在水下为B点附近增加2个位置
+    de_dust2
+      在A大和A小区域增加位置
+  2.功能更新
+    对于自定义练习配置文件的玩家，现在txt模板文件支持对位置的注释。在bot生成位置行中，第8个词及之后的词被视为注释，并且插件会忽略它们。
+    现在!prefire命令支持快捷命令。关于快捷方式的使用，您可以在游戏中键入!prefire help 来查看所有的用法。目前支持以下快捷方式：
+    !prefire prac [数字]：开始在选定路线上练习。
+    !prefire map [地图名称]：切换到另一张地图。
+    !prefire df [1-5]：设置难度。
+    !prefire mode [rand/full]：设置训练模式。
+    !prefire bw [rand/ump/ak/sct/awp]：为bot设置武器。
+    !prefire lang [en/pt/zh]：设置语言。en表示英语，pt表示葡萄牙语，中文选择zh。
+    !prefire exit：停止练习。
+    现在在选择菜单选项后菜单会自动关闭。
+    现在可以通过Bot武器菜单或快捷命令设置Bot的武器选择。
+    友情提醒：在CS2中，使用AWP的Bot非常菜。如果您想要最强力的目标，AK和鸟狙可能是您最好的选择。
+
 2024.4.26
 插件更新：
   1. 更新CSS至v215
