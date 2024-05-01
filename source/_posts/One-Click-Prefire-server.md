@@ -13,18 +13,25 @@ categories: 反恐精英2
 ## 下载地址
 
 ### 最新版本：
-<a href="OCPrefire2024.4.26.7z">OCPrefire2024.4.26.7z</a>
-<a href="OCPrefire2024.4.27测试版.7z">OCPrefire2024.4.27测试版.7z</a>
+<a href="OCPrefire2024.5.1.7z">OCPrefire2024.5.1.7z</a>
 
 ### 历史版本：
 <a href="OCPrefire2024.4.16.7z">OCPrefire2024.4.16.7z</a>
 <a href="OCPrefire2024.4.17.7z">OCPrefire2024.4.17.7z</a>
 <a href="OCPrefire2024.4.18测试版.7z">OCPrefire2024.4.18测试版.7z</a>
 <a href="OCPrefire2024.4.20.7z">OCPrefire2024.4.20.7z</a>
+<a href="OCPrefire2024.4.26.7z">OCPrefire2024.4.26.7z</a>
+<a href="OCPrefire2024.4.27测试版.7z">OCPrefire2024.4.27测试版.7z</a>
 
 ## 更新日志
 
 ```
+2024.5.1
+插件更新：
+  1.适配2024年5月1日CS2更新，MM更新至1290，CSS更新至228
+脚本更新：
+  1.更换了快捷方式连接服务器的方式，防止一些无效appid情况
+  2.增加了部分文本提示
 2024.4.27测试版
 插件更新：
   1. 路线更新
