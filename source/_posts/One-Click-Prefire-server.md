@@ -13,8 +13,7 @@ categories: 反恐精英2
 ## 下载地址
 
 ### 最新版本：
-<a href="OCPrefire2024.5.1.7z">OCPrefire2024.5.1.7z</a>
-<a href="OCPrefire2024.5.2测试版.7z">OCPrefire2024.5.2测试版.7z</a>
+<a href="OCPrefire2024.5.16.7z">OCPrefire2024.5.16.7z</a>
 
 ### 历史版本：
 <a href="OCPrefire2024.4.16.7z">OCPrefire2024.4.16.7z</a>
@@ -23,10 +22,72 @@ categories: 反恐精英2
 <a href="OCPrefire2024.4.20.7z">OCPrefire2024.4.20.7z</a>
 <a href="OCPrefire2024.4.26.7z">OCPrefire2024.4.26.7z</a>
 <a href="OCPrefire2024.4.27测试版.7z">OCPrefire2024.4.27测试版.7z</a>
+<a href="OCPrefire2024.5.1.7z">OCPrefire2024.5.1.7z</a>
+<a href="OCPrefire2024.5.2测试版.7z">OCPrefire2024.5.2测试版.7z</a>
+
+### 插件默认设置修改方法：
+json示例
+```json
+{
+    // 难度:
+    //   0: 100HP不回血
+    //   1: 500HP不回血
+    //   2: +25hp每个击杀
+    //   3: +100hp每个击杀(默认)
+    //   4: +500hp每个击杀
+    "Difficulty": 0,
+    // 练习模式:
+    //   0: 随机模式
+    //   1: 完整模式
+    "TrainingMode": 1,
+    // BOT武器:
+    //   0: 随机
+    //   1: UMP45.
+    //   2: AK47.
+    //   3: SSG08.
+    //   4: AWP.
+    "BotWeapon": 2,
+    // BOT自瞄:
+    //   false: CS2 的原生BOT行为。它以一种一致的方式运作，但功能较弱。
+    //   true: BOT锁头。但这可能会与 CS2 的原生BOT逻辑冲突，在某些情况下导致BOT不做出反应。
+    "BotAimLock": true
+}
+```
+
+#### 脚本1
+前往gamePFS\csgo\addons\counterstrikesharp\plugins\OpenPrefirePrac目录下
+按照注释编辑default_cfg.json.example，将其重命名为default_cfg.json后重启服务器即可
+
+#### 脚本2
+前往PFServer\steamcmd\server\game\csgo\addons\counterstrikesharp\plugins\OpenPrefirePrac目录下
+按照注释编辑default_cfg.json.example，将其重命名为default_cfg.json后重启服务器即可
 
 ## 更新日志
 
 ```
+2024.5.16
+插件更新：
+  1.更新至v0.1.33，路线更新
+    de_nuke
+      从黄房进攻 A 包点
+      从铁板进攻 B 包点
+      匪家侧）匪厅入口
+      从连接进攻铁板
+      从三楼下回防/进攻 A 区
+      从匪家外场到 K1
+      从 K1 进攻 B 点
+      水塔快提正门
+      从正门进攻 A 包点
+  修复了多人游戏场景下启用/禁用练习的 bug
+  为BOT实现了一个简单的锁头功能
+  修复插件默认设置功能,参见（### 插件默认设置修改方法）部分
+  2.CSS更新至V233,MM更新至1293
+脚本更新：
+  1.添加困难BOT参数配置文件安装功能，文件来自：https://github.com/lengran/OpenPrefirePrac/issues/17
+  该配置文件强化了BOT的反应
+  
+
+
 2024.5.2测试版
 插件更新：
   1.更新至v0.1.30，路线更新
