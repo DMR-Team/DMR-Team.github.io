@@ -10,6 +10,8 @@ categories: 反恐精英2
 
 <iframe src="//player.bilibili.com/player.html?aid=1253152296&bvid=BV1zJ4m1p7X2&cid=1508793003&p=1" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+注意：使用脚本更新后，如果之前装过困难BOT参数，会被消除，需要再装一遍
+
 ## 下载地址
 
 ### 最新版本：
@@ -65,6 +67,16 @@ json示例
 ## 更新日志
 
 ```
+2024.5.16
+插件更新：
+  1.更新至v0.1.34，路线更新
+    de_dust2
+      CT前压B1
+      CT中路前顶
+  稳定性改进
+  2.CSS更新至V234，适配CS2最近的版本大更新
+注意：使用脚本更新后，如果之前装过困难BOT参数，会被消除，需要再装一遍
+
 2024.5.16
 插件更新：
   1.更新至v0.1.33，路线更新
