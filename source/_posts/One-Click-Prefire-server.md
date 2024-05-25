@@ -15,7 +15,8 @@ categories: 反恐精英2
 ## 下载地址
 
 ### 最新版本：
-<a href="OCPrefire2024.5.16.7z">OCPrefire2024.5.16.7z</a>
+
+<a href="OCPrefire2024.5.25测试版.7z">OCPrefire2024.5.25测试版.7z</a>
 
 ### 历史版本：
 <a href="OCPrefire2024.4.16.7z">OCPrefire2024.4.16.7z</a>
@@ -26,6 +27,7 @@ categories: 反恐精英2
 <a href="OCPrefire2024.4.27测试版.7z">OCPrefire2024.4.27测试版.7z</a>
 <a href="OCPrefire2024.5.1.7z">OCPrefire2024.5.1.7z</a>
 <a href="OCPrefire2024.5.2测试版.7z">OCPrefire2024.5.2测试版.7z</a>
+<a href="OCPrefire2024.5.16.7z">OCPrefire2024.5.16.7z</a>
 
 ### 插件默认设置修改方法：
 json示例
