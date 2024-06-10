@@ -16,7 +16,7 @@ categories: 反恐精英2
 
 ### 最新版本：
 
-<a href="OCPrefire2024.5.25测试版.7z">OCPrefire2024.5.25测试版.7z</a>
+<a href="OCPrefire2024.6.10.7z">OCPrefire2024.6.10.7z</a>
 
 ### 历史版本：
 <a href="OCPrefire2024.4.16.7z">OCPrefire2024.4.16.7z</a>
@@ -28,6 +28,7 @@ categories: 反恐精英2
 <a href="OCPrefire2024.5.1.7z">OCPrefire2024.5.1.7z</a>
 <a href="OCPrefire2024.5.2测试版.7z">OCPrefire2024.5.2测试版.7z</a>
 <a href="OCPrefire2024.5.16.7z">OCPrefire2024.5.16.7z</a>
+<a href="OCPrefire2024.5.25测试版.7z">OCPrefire2024.5.25测试版.7z</a>
 
 ### 插件默认设置修改方法：
 json示例
@@ -52,9 +53,10 @@ json示例
     //   4: AWP.
     "BotWeapon": 2,
     // BOT自瞄:
-    //   false: CS2 的原生BOT行为。它以一种一致的方式运作，但功能较弱。
-    //   true: BOT锁头。但这可能会与 CS2 的原生BOT逻辑冲突，在某些情况下导致BOT不做出反应。
-    "BotAimLock": true
+    //0：CS2的原生机器人行为。它以一致的方式工作，但功能较弱。
+    //1：基于CSS的瞄准锁定：机器人总是瞄准玩家的头部。但这可能与 CS2 的原生机器人逻辑冲突，导致机器人在某些情况下没有反应。
+    //2：基于行为树的瞄准锁定：困难模式。
+    "BotAimLock": 2
 }
 ```
 
@@ -69,6 +71,17 @@ json示例
 ## 更新日志
 
 ```
+2024.6.10
+插件更新：
+  1.更新至v0.1.37，路线更新
+    de_vertigo
+      A坡进攻
+      A小道黄布进攻
+      中路到CT
+      B坡进攻
+  稳定性改进、新增基于行为树的BOT锁头，参见（### 插件默认设置修改方法）部分
+  2.CSS更新至V239
+
 2024.5.25测试版
 插件更新：
   1.更新至v0.1.34，路线更新
